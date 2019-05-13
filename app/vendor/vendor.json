@@ -1,0 +1,117 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "t8Lx9/3easvyCNy05TFMds5OT7o=",
+			"path": "github.com/0x1306a94/go-apns/cer",
+			"revision": "46e5d95bd07b93468b53565688f5aa232f4027a8",
+			"revisionTime": "2018-05-21T02:39:58Z"
+		},
+		{
+			"checksumSHA1": "skbVWA35zzQ+Yml14zyULI1OPic=",
+			"path": "github.com/astaxie/beego/orm",
+			"revision": "053a075344c118a5cc41981b29ef612bb53d20ca",
+			"revisionTime": "2018-07-31T13:18:48Z"
+		},
+		{
+			"checksumSHA1": "DYtoenJIWZ57DgWmy/S6JoUpnus=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "8056f2ca4aa7be2e2e10ab01426a630d5a5bfa81",
+			"revisionTime": "2019-05-07T09:00:41Z"
+		},
+		{
+			"checksumSHA1": "yNyE9MrpDJQAxOxSipSIBgBhuNQ=",
+			"path": "github.com/google/uuid",
+			"revision": "9b3b1e0f5f99ae461456d768e7d301a7acdaa2d8",
+			"revisionTime": "2018-09-17T14:00:05Z"
+		},
+		{
+			"checksumSHA1": "t06GpE7X4olsyp2d26RuKCDzC7w=",
+			"path": "github.com/influxdata/influxdb/client/v2",
+			"revision": "691dfb8bc1a192c61568b64d17940d868936fe9a",
+			"revisionTime": "2018-10-23T15:56:09Z"
+		},
+		{
+			"checksumSHA1": "MHbkzRnPuZdhiBZHoeok4EMynPY=",
+			"path": "github.com/influxdata/influxdb/models",
+			"revision": "691dfb8bc1a192c61568b64d17940d868936fe9a",
+			"revisionTime": "2018-10-23T15:56:09Z"
+		},
+		{
+			"checksumSHA1": "Z0Bb5PWa5WL/j5Dm2KJCLGn1l7U=",
+			"path": "github.com/influxdata/influxdb/pkg/escape",
+			"revision": "691dfb8bc1a192c61568b64d17940d868936fe9a",
+			"revisionTime": "2018-10-23T15:56:09Z"
+		},
+		{
+			"checksumSHA1": "VlZiUtbKFsYbGdwbhhn5Hy4pcFQ=",
+			"path": "github.com/influxdata/platform/models",
+			"revision": "b91169e77960de0be90a1ed8a38289ab7b9cd0b9",
+			"revisionTime": "2018-10-23T21:02:18Z"
+		},
+		{
+			"checksumSHA1": "Z1jNHNivahCME1jnd0nsJ/rUpfc=",
+			"path": "github.com/influxdata/platform/pkg/escape",
+			"revision": "b91169e77960de0be90a1ed8a38289ab7b9cd0b9",
+			"revisionTime": "2018-10-23T21:02:18Z"
+		},
+		{
+			"checksumSHA1": "qUfWkFlJqc24xFWAsWxKkyyO+zw=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "742154be9a26e849f02d296073c077e0a7c23828",
+			"revisionTime": "2018-10-07T00:49:37Z"
+		},
+		{
+			"checksumSHA1": "4eelJOSLZoDzLuaJvgilOBVNovU=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "04140366298a54a039076d798123ffa108fff46c",
+			"revisionTime": "2018-03-08T03:36:59Z"
+		},
+		{
+			"checksumSHA1": "Aulh7C5SVOA4Jzt5eHNH6197Mbk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "f55edac94c9bbba5d6182a4be46d86a2c9b5b50e",
+			"revisionTime": "2019-02-26T22:47:05Z"
+		},
+		{
+			"checksumSHA1": "I7hloldMJZTqUx6hbVDp5nk9fZQ=",
+			"path": "github.com/pkg/errors",
+			"revision": "27936f6d90f9c8e1145f11ed52ffffbfdb9e0af7",
+			"revisionTime": "2019-02-27T00:00:51Z"
+		},
+		{
+			"checksumSHA1": "3EH6WFZ6eet+L973ovo471d8tEc=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "f0375eb5b588893ff556c71dee32d98e57a9b777",
+			"revisionTime": "2019-05-10T07:41:01Z"
+		},
+		{
+			"checksumSHA1": "PJY7uCr3UnX4/Mf/RoWnbieSZ8o=",
+			"path": "golang.org/x/crypto/pkcs12",
+			"revision": "0c41d7ab0a0ee717d4590a44bcb987dfd9e183eb",
+			"revisionTime": "2018-10-15T00:23:17Z"
+		},
+		{
+			"checksumSHA1": "p0GC51McIdA7JygoP223twJ1s0E=",
+			"path": "golang.org/x/crypto/pkcs12/internal/rc2",
+			"revision": "0c41d7ab0a0ee717d4590a44bcb987dfd9e183eb",
+			"revisionTime": "2018-10-15T00:23:17Z"
+		},
+		{
+			"checksumSHA1": "xTTolmUyMtTkwMASe17ec7cr9Qg=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "a5b02f93d862f065920dd6a40dddc66b60d0dec4",
+			"revisionTime": "2019-05-09T06:39:11Z"
+		},
+		{
+			"path": "google.golang.org/appengine/cloudsql",
+			"revision": ""
+		},
+		{
+			"path": "verbose",
+			"revision": ""
+		}
+	],
+	"rootPath": "apns_feedback_service/app"
+}

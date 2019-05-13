@@ -1,0 +1,11 @@
+{
+  "certificate": [
+    {
+      "path" : "/Users/king/WorkSpec/Go/src/apns_feedback_service/app/apns.p12",
+      "password" : "123"
+    }
+  ],
+  "mysql": {},
+  "mock_mysql": {},
+  "influx_db": {}
+}
